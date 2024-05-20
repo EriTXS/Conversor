@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string-array name="units_array">
+        <item>Centimetros</item>
+        <item>Metros</item>
+        <item>Kilometros</item>
+        <item>Milhas</item>
+    </string-array>
+</resources>
